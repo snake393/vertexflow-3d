@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="30" viewBox="0 0 90 30" role="img" aria-label="DOWNLOAD">
+  <defs>
+    <linearGradient id="vfBtn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb95e"/>
+      <stop offset="0.45" stop-color="#ff8a1e"/>
+      <stop offset="1" stop-color="#e06f08"/>
+    </linearGradient>
+    <linearGradient id="vfBtnHi" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="90" height="30" rx="7" fill="url(#vfBtn)"/>
+  <rect x="2.5" y="2.5" width="85" height="9" rx="4.5" fill="url(#vfBtnHi)"/>
+  <rect x="0.5" y="0.5" width="89" height="29" rx="6.5" fill="none" stroke="#5a2c00" stroke-opacity="0.4" stroke-width="1"/>
+  <path d="M19 9.5 v9 m0 0 l-3.6 -3.6 m3.6 3.6 l3.6 -3.6" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="56" y="19.3" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#ffffff" letter-spacing="0.4">DOWNLOAD</text>
+</svg>
